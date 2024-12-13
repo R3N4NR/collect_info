@@ -1,0 +1,4 @@
+psycopg
+psutil
+getmac
+cpuinfo
