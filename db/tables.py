@@ -1,5 +1,5 @@
 import psycopg
-from database import connect_to_postgresql
+from db.database import connect_to_postgresql
 def create_database():
     conn = connect_to_postgresql("postgres")
     conn.autocommit = True

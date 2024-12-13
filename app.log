@@ -1,0 +1,9 @@
+2024-12-13 18:06:18,120 - DEBUG - Initializing 'ip4' method cache (platform: 'windows')
+2024-12-13 18:06:18,122 - DEBUG - Finished initializing 'ip4' method cache
+2024-12-13 18:06:18,122 - DEBUG - Raw MAC found: 18c04df4d23e
+2024-12-13 18:06:18,122 - DEBUG - Adding colons to MAC 18c04df4d23e
+2024-12-13 18:06:18,123 - INFO - Dados preparados e colocados no buffer: {'hostname': 'porto5-renan', 'ip_local': '192.168.1.68', 'mac': '18-C0-4D-F4-D2-3E', 'cpu_info': 'AMD Ryzen 3 3200G with Radeon Vega Graphics', 'cpu_percent': 5.1, 'memoria_total': 13.94326400756836, 'memoria_livre': 4.460582733154297, 'ram_percent': 68.0, 'partitions': [{'disco': 'C:\\', 'espaco_total_GB': 237.81593322753906, 'espaco_livre_GB': 78.47783279418945, 'uso_percentual': 67.0}, {'disco': 'D:\\', 'espaco_total_GB': 931.5107383728027, 'espaco_livre_GB': 847.731803894043, 'uso_percentual': 9.0}]}
+2024-12-13 18:06:18,124 - DEBUG - Dados retirados do buffer: {'hostname': 'porto5-renan', 'ip_local': '192.168.1.68', 'mac': '18-C0-4D-F4-D2-3E', 'cpu_info': 'AMD Ryzen 3 3200G with Radeon Vega Graphics', 'cpu_percent': 5.1, 'memoria_total': 13.94326400756836, 'memoria_livre': 4.460582733154297, 'ram_percent': 68.0, 'partitions': [{'disco': 'C:\\', 'espaco_total_GB': 237.81593322753906, 'espaco_livre_GB': 78.47783279418945, 'uso_percentual': 67.0}, {'disco': 'D:\\', 'espaco_total_GB': 931.5107383728027, 'espaco_livre_GB': 847.731803894043, 'uso_percentual': 9.0}]}
+2024-12-13 18:06:18,136 - INFO - Disco C:\ atualizado para o computador MAC 18-C0-4D-F4-D2-3E
+2024-12-13 18:06:18,137 - INFO - Disco D:\ atualizado para o computador MAC 18-C0-4D-F4-D2-3E
+2024-12-13 18:06:18,140 - INFO - Dados de discos e do computador MAC 18-C0-4D-F4-D2-3E atualizados ou inseridos com sucesso.

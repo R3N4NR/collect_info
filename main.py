@@ -1,10 +1,12 @@
+import sys
+import os
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+sys.path.append(os.path.dirname(SCRIPT_DIR))
 import logging
 from config.logging_config import setup_logging
 from system.collector import update_system_metrics, prepare_data_for_db
 from system.metrics import collect_system_metrics
 from db.database import connect_to_postgresql
-import sys
-import os
 
 def main():
     setup_logging()
